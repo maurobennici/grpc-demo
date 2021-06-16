@@ -1,0 +1,8 @@
+
+.DS_Store
+.vs
+.vscode
+bin/
+debug/
+__pycache__/
+obj/
